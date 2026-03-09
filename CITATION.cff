@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Goldstonian Concordance Bible Knowledge Graph Dataset
+authors:
+  - family-names: Goldston
+    given-names: Justin
+date-released: 2026
+repository-code: https://github.com/GoldstonianConcordanceBible
+license: CC-BY-4.0
