@@ -1,4 +1,4 @@
-# Goldstonian Concordance Bible Knowledge Graph Dataset (GCB)
+# Goldstonian Concordance Bible Corpus Dataset
 
 Author: Justin Goldston, PhD
 
