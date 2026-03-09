@@ -42,3 +42,18 @@ Commentary entries associated with passages.
 ## Intended Use
 
 This dataset is intended for research, educational, and computational analysis purposes.
+
+## Graph Dataset
+
+The corpus includes a cross-reference network dataset suitable for graph analysis.
+
+File: cross_reference_network.csv
+
+This dataset represents a directed network where nodes are scripture passages and edges represent interpretive relationships.
+
+Potential uses include:
+
+- knowledge graph research
+- computational theology
+- network analysis
+- digital humanities studies
