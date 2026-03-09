@@ -57,3 +57,16 @@ Potential uses include:
 - computational theology
 - network analysis
 - digital humanities studies
+
+## Machine Learning Corpus
+
+The dataset includes a JSONL corpus file:
+
+passages_corpus.jsonl
+
+Each record represents a scripture passage node and may be used for:
+
+• natural language processing experiments
+• knowledge graph generation
+• text classification
+• digital humanities analysis
