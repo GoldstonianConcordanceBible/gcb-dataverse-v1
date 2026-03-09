@@ -1,0 +1,20 @@
+[
+  {
+    "node_id": "C001",
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 1,
+    "theme": "creation",
+    "commentary_text": "The opening verse of Genesis introduces the biblical creation narrative.",
+    "author": "Justin Goldston"
+  },
+  {
+    "node_id": "C002",
+    "book": "Isaiah",
+    "chapter": 53,
+    "verse": 5,
+    "theme": "atonement",
+    "commentary_text": "Isaiah 53 is traditionally interpreted as a prophetic passage concerning suffering and redemption.",
+    "author": "Justin Goldston"
+  }
+]
