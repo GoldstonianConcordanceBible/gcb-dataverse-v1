@@ -55,3 +55,12 @@ source_id
 target_id
 relationship_type
 weight
+
+passages_corpus.jsonl
+
+id
+book
+chapter
+verse
+text_reference
+theme
