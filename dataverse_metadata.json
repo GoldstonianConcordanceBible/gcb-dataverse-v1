@@ -1,0 +1,18 @@
+{
+  "title": "Goldstonian Concordance Bible Knowledge Graph Dataset",
+  "author": "Justin Goldston",
+  "description": "Structured dataset mapping biblical passages, cross references, themes, and commentary nodes for digital humanities research.",
+  "subject": [
+    "Digital Humanities",
+    "Biblical Studies",
+    "Knowledge Graphs"
+  ],
+  "keywords": [
+    "Bible",
+    "digital humanities",
+    "knowledge graph",
+    "theology",
+    "scripture"
+  ],
+  "relatedMaterial": "https://github.com/GoldstonianConcordanceBible"
+}
