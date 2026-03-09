@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Goldstonian Concordance Bible Corpus and Cross-Reference Network Dataset",
+  "description": "A structured digital humanities dataset mapping biblical passages, cross references, themes, commentary nodes, and machine-readable corpus records for research in biblical studies, digital humanities, NLP, and knowledge graph analysis.",
+  "creator": {
+    "@type": "Person",
+    "name": "Justin Goldston"
+  },
+  "keywords": [
+    "Bible",
+    "biblical studies",
+    "digital humanities",
+    "knowledge graph",
+    "theology",
+    "NLP",
+    "corpus"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isBasedOn": "https://github.com/GoldstonianConcordanceBible",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "books.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "passages.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "cross_references.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "cross_reference_network.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/jsonl",
+      "contentUrl": "passages_corpus.jsonl"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "commentary_nodes.json"
+    }
+  ]
+}
