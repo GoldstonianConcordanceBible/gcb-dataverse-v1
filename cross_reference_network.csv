@@ -4,3 +4,10 @@ EXO_12_5,JHN_1_29,typology,1
 ISA_53_5,MAT_27_26,fulfillment,1
 PSA_22_1,MAT_27_46,quotation,1
 DAN_7_13,REV_1_13,vision_parallel,1
+
+cross_reference_network.csv
+
+source_id
+target_id
+relationship_type
+weight
