@@ -48,3 +48,10 @@ verse
 theme
 commentary_text
 author
+
+cross_reference_network.csv
+
+source_id
+target_id
+relationship_type
+weight
